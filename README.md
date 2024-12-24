@@ -15,8 +15,8 @@
 设置 > 用户头像 > iCloud > iCloud云盘 > 打开<br>
 
 # 版本更新和词源
-1.0  收录1549种中国鸟类名称，来自维基百科（ https://zh.wikipedia.org/zh-cn/中国鸟类列表 ）<br>
-1.1  中国鸟类增加至1678行，来自中国观鸟记录中心-中国鸟类名录v_12.0含附录鸟类（https://www.birdreport.cn/home/files/download.html）<br>
+1.0  收录1549种中国鸟类名称，来自维基百科 https://zh.wikipedia.org/zh-cn/中国鸟类列表 <br>
+1.1  中国鸟类增加至1678行，来自中国观鸟记录中心-中国鸟类名录v_12.0含附录鸟类 https://www.birdreport.cn/home/files/download.html <br>
 
 # 声明
 本工具专为提升macOS及iOS输入中文鸟名的便捷性，本着多多益善的原则，不对各时期、版本的鸟名的准确性负责。<br>
